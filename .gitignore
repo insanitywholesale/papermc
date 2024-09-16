@@ -54,7 +54,8 @@ run/
 
 Paper-Server
 Paper-API
-Paperclip.jar
-paperclip.jar
-paperclip-*.jar
+# Need to store the jar somewhere
+#Paperclip.jar
+#paperclip.jar
+#paperclip-*.jar
 paperclip.properties
